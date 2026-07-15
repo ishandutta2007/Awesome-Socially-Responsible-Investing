@@ -3,7 +3,7 @@
 </div>
 
 # Awesome-Socially-Responsible-Investing
-## Top Socially Responsible Investing (SRI/ESG) Platforms & Open-Source Alternatives
+## 🌍 Top Socially Responsible Investing (SRI/ESG) Platforms & Open-Source Alternatives
 
 A curated guide to leading **SaaS/cloud-hosted SRI/ESG investing platforms** (like OpenInvest, Ethic, Ellevest, Aspiration, Betterment SRI) and their **open-source/self-hosted equivalents**. 
 
@@ -11,11 +11,11 @@ A curated guide to leading **SaaS/cloud-hosted SRI/ESG investing platforms** (li
 
 ---
 
-## SaaS / Cloud-Hosted SRI/ESG Platforms
+## ☁️ SaaS / Cloud-Hosted SRI/ESG Platforms
 
 Popular platforms focused on aligning investments with environmental, social, and governance (ESG) values, impact, and ethical screening.
 
-### Leading Options
+### 🚀 Leading Options
 
 | Platform | Description | Pricing | Company Size |
 |----------|-------------|---------|--------------|
@@ -31,11 +31,11 @@ These platforms typically offer automated portfolio management, low fees (0.25%-
 
 ---
 
-## Open-Source / Self-Hosted Alternatives
+## 💻 Open-Source / Self-Hosted Alternatives
 
 These tools empower users and developers to build custom SRI/ESG strategies, portfolio optimizers, and analysis platforms without relying on commercial robo-advisors. Ideal for transparency in scoring, risk management, and sustainable finance.
 
-### Featured Projects
+### 🌟 Featured Projects
 
 - **[skfolio](https://skfolio.org)** [![GitHub stars](https://img.shields.io/github/stars/skfolio/skfolio?style=social&color=white)](https://github.com/skfolio/skfolio/stargazers) — Python library for portfolio optimization and risk management. Can be extended with ESG constraints and scoring.<grok-card data-id="f1fcbf" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
   - License: BSD
@@ -49,7 +49,7 @@ These tools empower users and developers to build custom SRI/ESG strategies, por
 
 - **[open-climate-investing](https://github.com/opentaps/open-climate-investing)** [![GitHub stars](https://img.shields.io/github/stars/opentaps/open-climate-investing?style=social&color=white)](https://github.com/opentaps/open-climate-investing/stargazers) — Applications and data for analyzing and structuring portfolios specifically for climate investing.<grok-card data-id="c61709" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
 
-### Additional Open-Source Tools
+### 🛠️ Additional Open-Source Tools
 - **awesome-sustainable-finance** [![GitHub stars](https://img.shields.io/github/stars/open-risk/awesome-sustainable-finance?style=social&color=white)](https://github.com/open-risk/awesome-sustainable-finance/stargazers) — Curated list of open-source sustainable finance resources, tools, and data.<grok-card data-id="5bd19e" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
   - GitHub: [open-risk/awesome-sustainable-finance](https://github.com/open-risk/awesome-sustainable-finance)
 - **[esg-investing-app](https://github.com/LucS12/esg-investing-app)** [![GitHub stars](https://img.shields.io/github/stars/LucS12/esg-investing-app?style=social&color=white)](https://github.com/LucS12/esg-investing-app/stargazers) — Web app for generating personalized ESG portfolios and comparative rankings.
@@ -61,7 +61,7 @@ These tools empower users and developers to build custom SRI/ESG strategies, por
 
 ---
 
-## Comparison
+## ⚖️ Comparison
 
 | Aspect              | SaaS Platforms                        | Open-Source / Self-Hosted                  |
 |---------------------|---------------------------------------|--------------------------------------------|
@@ -73,7 +73,7 @@ These tools empower users and developers to build custom SRI/ESG strategies, por
 
 ---
 
-## Getting Started
+## 🏁 Getting Started
 
 1. Identify your focus (climate impact, social equity, full ESG screening, etc.).
 2. Explore **Equinox** and **OS-Climate** for robust sustainable finance infrastructure.
@@ -81,7 +81,7 @@ These tools empower users and developers to build custom SRI/ESG strategies, por
 4. Deploy via Docker, Python environments, or Jupyter for analysis.
 5. Source ESG data from public APIs, government datasets, or open repositories.
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to submit PRs to expand this list with more projects, tools, or comparisons!
 
