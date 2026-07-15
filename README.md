@@ -3,6 +3,10 @@
 </div>
 
 # Awesome-Socially-Responsible-Investing
+
+<meta name="description" content="A curated guide to leading SaaS/cloud-hosted SRI/ESG investing platforms and their open-source/self-hosted equivalents. Focuses on sustainable finance, environmental, social, and governance investments." />
+<meta name="keywords" content="SRI, ESG, socially responsible investing, sustainable finance, open-source investing, robo-advisor, climate investing" />
+
 ## 🌍 Top Socially Responsible Investing (SRI/ESG) Platforms & Open-Source Alternatives
 
 A curated guide to leading **SaaS/cloud-hosted SRI/ESG investing platforms** (like OpenInvest, Ethic, Ellevest, Aspiration, Betterment SRI) and their **open-source/self-hosted equivalents**. 
