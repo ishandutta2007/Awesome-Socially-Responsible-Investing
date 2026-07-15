@@ -12,11 +12,14 @@ A curated guide to leading **SaaS/cloud-hosted SRI/ESG investing platforms** (li
 Popular platforms focused on aligning investments with environmental, social, and governance (ESG) values, impact, and ethical screening.
 
 ### Leading Options
-- **[OpenInvest](https://openinvest.com)** — Personalized SRI portfolios with custom impact themes and values-based investing.
-- **[Ethic](https://ethic.com)** — Impact-focused investing platform allowing users to build portfolios aligned with specific values and ESG criteria.
-- **[Ellevest](https://ellevest.com)** — Women-focused robo-advisor with SRI options emphasizing gender equality and social impact.
-- **[Aspiration](https://aspiration.com)** — Sustainable banking and investing with fossil-free options and impact focus.
-- **[Betterment SRI Portfolios](https://betterment.com)** — Robo-advisor offering Broad Impact, Climate Impact, and Social Impact portfolios alongside traditional options.<grok-card data-id="95fdd6" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+
+| Platform | Description | Pricing |
+|----------|-------------|---------|
+| **[OpenInvest](https://openinvest.com)** | Personalized SRI portfolios with custom impact themes and values-based investing. | Varies by AUM (B2B focus). No free tier. |
+| **[Ethic](https://ethic.com)** | Impact-focused investing platform allowing users to build portfolios aligned with specific values and ESG criteria. | Varies by AUM. No free tier. |
+| **[Ellevest](https://ellevest.com)** | Women-focused robo-advisor with SRI options emphasizing gender equality and social impact. | $1 to $9 per month. No free tier. |
+| **[Aspiration](https://aspiration.com)** | Sustainable banking and investing with fossil-free options and impact focus. | "Pay what is fair" ($0/mo minimum). Free tier limits: Basic features; Plus is $7.99/mo. |
+| **[Betterment SRI Portfolios](https://betterment.com)** | Robo-advisor offering Broad Impact, Climate Impact, and Social Impact portfolios alongside traditional options. | 0.25% AUM (Digital), 0.40% AUM (Premium). No free tier. |
 
 **Other notables**: Wealthfront (SRI portfolio), EarthFolio (fully ESG/fossil-free), Vanguard ESG funds, and various robo-advisors with ESG overlays.
 
